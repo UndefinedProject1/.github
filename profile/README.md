@@ -1,6 +1,6 @@
 ## Hi there 👋
 # Project Title / All Gaincs
-<span style="color:yellow">노란 글씨입니다.</span>
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 **[뱃지나 프로젝트에 관한 이미지들이 이 위치에 들어가면 좋습니다]**  
 One Paragraph of project description goes here / 프로젝트의 전반적인 내용에 대한 요약을 여기에 적습니다
 
