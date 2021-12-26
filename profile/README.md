@@ -2,7 +2,7 @@
 # Project Title / All Gaincs
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=All%20Ganics&fontSize=90)
 > All Ganics은 점점 심해지는 지구 온난화에 따라 사람들이 좀 더 쉽게 착한 소비를 할 수 있도록 친환경, 제로웨이스트, 리사이클링 제품들을 모아놓은 쇼핑몰입니다.
-> 친환경 제품을 구매하려고해도 소비자가 많은 정보를 알아보고 구매해야한다는 불편함이 있었습니다. 그래서 저희 팀원들은 옷 쇼핑어플인 지그재그처럼 
+> 친환경 제품을 구매하려고해도 소비자가 많은 정보를 알아보고 구매해야한다는 불편함이 있었습니다. 그래서 저희 팀원들은 지그재그, 브랜디와 같이 친환경제품 하면 들어가서 손쉽고 간편하게 구매할 수 있는 사이트를 제작하고자하여 이번 프로젝트를 만들게 되었습니다. 
 
 ## Getting Started / 어떻게 시작하나요?
 
