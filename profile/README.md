@@ -86,9 +86,8 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
 
 
-## Contributiong / 기여
+## 🛠 Tech Stack / 기술스택
 
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us. / [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) 를 읽고 이에 맞추어 pull request 를 해주세요.
 
 ## License / 라이센스
 
