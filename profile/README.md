@@ -21,6 +21,11 @@
 | Product_Cart (회원) | 기본 팝업 형식에서 장바구니 페이지로 이동, 수령 변경 후 저장 |
 | Order_Page (회원) | 성명, 연락처, 주소 필수 기입(유효성), PG 결제 연동 API 사용, 환불 교환 정책 모달처리 |
 
+## 💁 Built With / 누구랑 만들었나요?
+
+* [이름](링크) - 무엇 무엇을 했어요
+* [Name](Link) - Create README.md
+ 
 ## Getting Started / 어떻게 시작하나요?
 
 
@@ -62,10 +67,6 @@
 
 Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
 
-## 💁 Built With / 누구랑 만들었나요?
-
-* [이름](링크) - 무엇 무엇을 했어요
-* [Name](Link) - Create README.md
 
 ## Contributiong / 기여
 
