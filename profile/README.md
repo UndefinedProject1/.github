@@ -87,7 +87,10 @@ Add additional notes about how to deploy this on a live system / 라이브 시�
 
 
 ## 🛠 Tech Stack / 기술스택
-
+- ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) : 프론트엔드 메인 개발 환경
+- ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) : 백엔드 메인 개발 환경
+- ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) : 프레임워크
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) : 
 
 ## License / 라이센스
 
