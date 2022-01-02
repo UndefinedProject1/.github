@@ -22,15 +22,6 @@
 | Product_Cart (회원) | 기본 팝업 형식에서 장바구니 페이지로 이동, 수령 변경 후 저장 |
 | Order_Page (회원) | 성명, 연락처, 주소 필수 기입(유효성), PG 결제 연동 API 사용, 환불 교환 정책 모달처리 |
 
-## 💁 Built With / 누구랑 만들었나요?
-
-| 기간| 내용 |  
-| ------ | ------ |
-| [정지희](https://github.com/Insa14) | Back-end |
-| [권다은](https://github.com/kaydan95) | Front-end |
-| [정다경](https://github.com/Jeong-Dagyeong) | Front-end |
-
- 
 ## 🚀 Getting Started / 어떻게 시작하나요?
 
 
@@ -63,6 +54,15 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 
 저희 올가닉스는 신고 및 매출 현황을 socket을 이용하여 관리자 페이지에 실시간으로 업데이트 되도록 구성되어있습니다. 각각 관리자와 멤버로 동시에 로그인한 후 이용하시길 추천드립니다. 
 
+## 💁 Built With / 누구랑 만들었나요?
+
+| 기간| 내용 |  
+| ------ | ------ |
+| [정지희](https://github.com/Insa14) | Back-end |
+| [권다은](https://github.com/kaydan95) | Front-end |
+| [정다경](https://github.com/Jeong-Dagyeong) | Front-end |
+
+ 
 ## Running the tests / 테스트의 실행
 
 어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
