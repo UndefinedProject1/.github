@@ -1,6 +1,7 @@
 ## 📖 Project Title / All Gaincs
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=All%20Ganics&fontSize=90)
 > All Ganics은 점점 심해지는 지구 온난화에 따라 사람들이 좀 더 쉽게 착한 소비를 할 수 있도록 친환경, 제로웨이스트, 리사이클링 제품들을 모아놓은 쇼핑몰입니다.
+> 
 > 친환경 제품을 구매하려고해도 소비자가 많은 정보를 알아보고 구매해야한다는 불편함이 있었습니다. 그래서 저희 팀원들은 지그재그, 브랜디와 같이 친환경제품 하면 들어가서 손쉽고 간편하게 구매할 수 있는 사이트를 제작하고자하여 이번 프로젝트를 만들게 되었습니다. 
 
 ## 📝 Process 과정
@@ -30,7 +31,7 @@
 | [정다경](https://github.com/Jeong-Dagyeong) | Front-end |
 
  
-## Getting Started / 어떻게 시작하나요?
+## 🚀 Getting Started / 어떻게 시작하나요?
 
 
 ### Prerequisites / 선행 조건
@@ -44,7 +45,9 @@
 ### Guide / 가이드
 
 All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 가이드를 통해 즐길수있습니다.
+
 저희 All_Ganics 는 회원가입의 과정 없이 사이트를 둘러보는 것은 가능하나 일부 기능(장바구니, 주문, 마이페이지)은 회원 한정으로 제작되어있습니다. 회원가입(일반, 카카오톡)을 이용해보시는 방법도 있으나 하단의 대표 아이디로 로그인하셔서 사이트를 이용해보실 수 있습니다.
+
 관리자 페이지(admin_page)를 이용하시려면 관리자 아이디로 로그인 하셔야합니다. 
 
 
