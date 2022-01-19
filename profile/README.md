@@ -44,8 +44,8 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 
 ```
 - 멤버
-아이디 : coco@gmail.com
-암호 : coco
+아이디 : guest@gmail.com
+암호 : guest123!
 
 - 관리자
 아이디 : a@gmail.com 
@@ -82,7 +82,7 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 ```
 
 ## Deployment / 배포
-
+🔗 : http://18.223.251.77:3000/
 Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
 
 
