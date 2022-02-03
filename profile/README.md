@@ -4,6 +4,8 @@
 > 
 > 친환경 제품을 구매하려고해도 소비자가 많은 정보를 알아보고 구매해야한다는 불편함이 있었습니다. 그래서 저희 팀원들은 지그재그, 브랜디와 같이 친환경제품 하면 들어가서 손쉽고 간편하게 구매할 수 있는 사이트를 제작하고자하여 이번 프로젝트를 만들게 되었습니다. 
 
+👉 [PPT로 보고싶으신 분](https://prezi.com/view/Fxg2Ah7phHw4t6tkQpKC/)
+
 ## 📝 Process 과정
 
 * 전체 프로젝트 기간 : 2021.10.04 ~ 2021.12.03
@@ -91,9 +93,6 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) : 프레임워크
 - ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) : 실시간 데이터처리를 위한 서버
 
-## License / 라이센스
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://gist.github.com/PurpleBooth/LICENSE.md) file for details / 이 프로젝트는 MIT 라이센스로 라이센스가 부여되어 있습니다. 자세한 내용은 LICENSE.md 파일을 참고하세요.
 
 ## Acknowledgments / 감사의 말
 
