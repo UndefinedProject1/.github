@@ -83,14 +83,13 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 
 ## Deployment / 배포
 🔗 : http://18.223.251.77:3000/
-Add additional notes about how to deploy this on a live system / 라이브 시스템을 배포하는 방법
 
-
+/admin_page와 /페이지 두 개를 여시고 결제나 리뷰를 적었을 때 실시간으로 관리자페이지에 어떻게 나타나는지 확인해보시는 것을 추천드립니다.
 ## 🛠 Tech Stack / 기술스택
 - ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) : 프론트엔드 메인 개발 환경
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) : 백엔드 메인 개발 환경
 - ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?style=flat-square&logo=Spring%20Boot&logoColor=white) : 프레임워크
-- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) : 
+- ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white) : 실시간 데이터처리를 위한 서버
 
 ## License / 라이센스
 
@@ -98,9 +97,8 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 ## Acknowledgments / 감사의 말
 
-* Hat tip to anyone whose code was used / 코드를 사용한 모든 사용자들에게 팁
-* Inspiration / 영감
-* etc / 기타
+* 그동안 개발을 알려주신 선생님들께 너무 감사드립니다. 덕분에 한 명의 멋진 개발자로 성장하는 발판을 단단하게 쌓을 수 있었습니다.
+* 실제 쇼핑몰을 투자 받아 출시할 것처럼 진지하게 해보자는 저의 말에 같이 불타올라 유저들에게 어떻게 보기에 편안한지 계속 고민하고 디자인도 이쁘게 하기위해 각종 포스터, 사이트들을 찾아보고 연구한 우리 프론트엔드 팀원분들께 찬양의 말을 보냅니다.   
 
 <!--
 
