@@ -24,16 +24,6 @@
 | Product_Cart (회원) | 기본 팝업 형식에서 장바구니 페이지로 이동, 수령 변경 후 저장 |
 | Order_Page (회원) | 성명, 연락처, 주소 필수 기입(유효성), PG 결제 연동 API 사용, 환불 교환 정책 모달처리 |
 
-## 🚀 Getting Started / 어떻게 시작하나요?
-
-
-### Prerequisites / 선행 조건
-
-아래 사항들이 설치가 되어있어야합니다.
-
-```
-예시
-```
 
 ### Guide / 가이드
 
@@ -64,29 +54,22 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 | [권다은](https://github.com/kaydan95) | Front-end |
 | [정다경](https://github.com/Jeong-Dagyeong) | Front-end |
 
- 
-## Running the tests / 테스트의 실행
-
-어떻게 테스트가 이 시스템에서 돌아가는지에 대한 설명을 합니다
-
-### 테스트는 이런 식으로 동작합니다
-
-왜 이렇게 동작하는지, 설명합니다
-
-```
-예시
-```
-
-### 테스트는 이런 식으로 작성하시면 됩니다
-
-```
-예시
-```
 
 ## Deployment / 배포
-🔗 : http://18.223.251.77:3000/
+:no_entry_sign: ~~http://18.223.251.77:3000/~~
 
-/admin_page와 /페이지 두 개를 여시고 결제나 리뷰를 적었을 때 실시간으로 관리자페이지에 어떻게 나타나는지 확인해보시는 것을 추천드립니다.
+:warning: __2023.06.23 : 배포가 중단되어 하단의 시연 동영상을 확인해주시기 바랍니다.__
+
+
+__1. All_Ganics 일반 이용자__
+
+[![Video Label](http://img.youtube.com/vi/JnsfxVlw0IU/0.jpg)](https://youtu.be/JnsfxVlw0IU)
+
+__2. All_Ganics/admin_page 관리자페이지__
+
+[![Video Label](http://img.youtube.com/vi/J2nu3VWxcEQ/0.jpg)](https://youtu.be/J2nu3VWxcEQ)
+
+
 ## 🛠 Tech Stack / 기술스택
 - ![Vue JS](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) : 프론트엔드 메인 개발 환경
 - ![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white) : 백엔드 메인 개발 환경
