@@ -63,11 +63,11 @@ All-Ganic 프로젝트의 많은 기능들을 더 쉽고 간편하게 아래의 
 
 __1. All_Ganics 일반 이용자__
 
-[![Video Label](http://img.youtube.com/vi/JnsfxVlw0IU/0.jpg)](https://youtu.be/JnsfxVlw0IU)
+[![Video Label](http://img.youtube.com/vi/68euT89UmMM/0.jpg)](https://youtu.be/68euT89UmMM)
 
 __2. All_Ganics/admin_page 관리자페이지__
 
-[![Video Label](http://img.youtube.com/vi/J2nu3VWxcEQ/0.jpg)](https://youtu.be/J2nu3VWxcEQ)
+[![Video Label](http://img.youtube.com/vi/wjqNgvDpN9I/0.jpg)](https://youtu.be/wjqNgvDpN9I)
 
 
 ## 🛠 Tech Stack / 기술스택
